@@ -20,5 +20,5 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joeywheelersam&theme=youtube-dark&date_format=j%20M%5B%20Y%5D&background=000000)](https://github-readme-streak-stats.herokuapp.com)
 
-## Projetc
+## Project
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=joeywheelersam&repo=Java-AI-Powered&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF0000&title_color=FF0000&text_color=FFF)](https://github.com/joeywheelersam/Java-AI-Powered)
